@@ -1,0 +1,12 @@
+D:\dll\DllLibrary\DllLibrary\bin\Debug\net8.0\DllLibrary.deps.json
+D:\dll\DllLibrary\DllLibrary\bin\Debug\net8.0\DllLibrary.dll
+D:\dll\DllLibrary\DllLibrary\bin\Debug\net8.0\DllLibrary.pdb
+D:\dll\DllLibrary\DllLibrary\obj\Debug\net8.0\DllLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\dll\DllLibrary\DllLibrary\obj\Debug\net8.0\DllLibrary.AssemblyInfoInputs.cache
+D:\dll\DllLibrary\DllLibrary\obj\Debug\net8.0\DllLibrary.AssemblyInfo.cs
+D:\dll\DllLibrary\DllLibrary\obj\Debug\net8.0\DllLibrary.csproj.CoreCompileInputs.cache
+D:\dll\DllLibrary\DllLibrary\obj\Debug\net8.0\DllLibrary.dll
+D:\dll\DllLibrary\DllLibrary\obj\Debug\net8.0\refint\DllLibrary.dll
+D:\dll\DllLibrary\DllLibrary\obj\Debug\net8.0\DllLibrary.pdb
+D:\dll\DllLibrary\DllLibrary\obj\Debug\net8.0\ref\DllLibrary.dll
+D:\dll\DllLibrary\DllLibrary\obj\Debug\net8.0\DllLibrary.sourcelink.json
